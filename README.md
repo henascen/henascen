@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @henascen
-- 👀 I’m interested in computer vision, deep learning, IoT and tinyML
-- 🌱 I’m currently learning computer vision and data engineering
-- 💞️ I’m looking to collaborate on deep learning + computer vision projects
-- 📫 Follow me on twitter!
+- 👀 I’m interested in computer vision, machine learning, and robotics.
+- 🌱 I’m currently learning robotics and data processing
+- 💞️ I’m looking to collaborate on robotics + computer vision projects
 
 <!---
 henascen/henascen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
